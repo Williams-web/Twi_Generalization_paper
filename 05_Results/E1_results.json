@@ -1,0 +1,12 @@
+{
+  "experiment": "E1",
+  "train_dataset": "AfriSenti",
+  "test_dataset": "AfriSenti",
+  "train_size": 4138,
+  "test_size": 782,
+  "accuracy": 0.7071611253196931,
+  "precision_macro": 0.5745994783434702,
+  "recall_macro": 0.5732793242015418,
+  "f1_macro": 0.5739336705075074,
+  "f1_weighted": 0.7066659684120385
+}

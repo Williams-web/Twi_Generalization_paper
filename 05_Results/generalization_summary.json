@@ -1,0 +1,5 @@
+{
+  "average_within_macro_f1": 0.5539028642598717,
+  "average_cross_macro_f1": 0.42685750933161787,
+  "average_generalization_gap": 0.1270453549282538
+}

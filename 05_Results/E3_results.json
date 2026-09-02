@@ -1,0 +1,12 @@
+{
+  "experiment": "E3",
+  "train_dataset": "AsanteTwiSenti",
+  "test_dataset": "AsanteTwiSenti",
+  "train_size": 3481,
+  "test_size": 762,
+  "accuracy": 0.5866141732283464,
+  "precision_macro": 0.5379244538385848,
+  "recall_macro": 0.534947738814027,
+  "f1_macro": 0.5338720580122359,
+  "f1_weighted": 0.5964843372557992
+}

@@ -1,0 +1,12 @@
+{
+  "experiment": "E2",
+  "train_dataset": "AfriSenti",
+  "test_dataset": "AsanteTwiSenti",
+  "train_size": 4138,
+  "test_size": 762,
+  "accuracy": 0.4816272965879265,
+  "precision_macro": 0.44227994227994233,
+  "recall_macro": 0.4443541391765631,
+  "f1_macro": 0.4409327060415012,
+  "f1_weighted": 0.4892595077678376
+}
