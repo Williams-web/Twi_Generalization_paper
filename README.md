@@ -1,4 +1,4 @@
-# DCIT316 — Twi Cross-Dataset Generalization
+# DCIT316 - Twi Cross-Dataset Generalization
 
 **Topic:** How Generalizable Are Twi Sentiment Analysis Models? A Cross-Dataset Study of Ghanaian Social Media Sentiment
 
